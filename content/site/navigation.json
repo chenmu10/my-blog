@@ -1,0 +1,30 @@
+{
+  "headerNavigation": [
+    {
+      "name": "Home",
+      "link": "/",
+      "external": false
+    },
+    {
+      "name": "About",
+      "link": "/about",
+      "external": false
+    }
+  ],
+  "footerNavigation": [{
+      "name": "Latest Posts",
+      "link": "/",
+      "external" : false
+    },
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com",
+      "external": true
+    },   
+    {
+      "name": "RSS",
+      "link": "/rss.xml",
+      "external": false
+    }
+  ]
+}
